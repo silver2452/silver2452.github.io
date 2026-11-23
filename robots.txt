@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://herzsa-net.github.io/sitemap.xml
+Sitemap: https://herzsa.net/sitemap.xml
