@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: https://silver2452.github.io/sitemap.xml
+Sitemap: https://herzsa-net.github.io/sitemap.xml
